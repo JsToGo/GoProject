@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOPATH": "F:\\GoProject",
+        "GO111MODULE": "auto"
+    }
+}
